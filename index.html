@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nível Herói</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30'><text x='-4' y='25' font-size='30' font-family='Arial' fill='black'>🎮</text></svg>" />
+</head>
+
+<body>
+    <header>
+        <div class="titulo-principal">
+            <h1>Descubra a classificação do seu Herói!</h1>
+        </div>
+    </header>
+
+    <main>
+        <section>
+
+            <h1>Insira o nome do seu Herói!</h1>
+            <input type="text" id="nome"></input>
+
+
+            <h1>Insira o número de nível do seu Herói!</h1>
+            <input type="number" id="nivel"></input>
+
+            <button onclick="nivelHeroi()" id="classificacao">Ver classificação</button>
+
+        </section>
+
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+
+    </main>
+
+    <footer>
+        <p>2024 - Descubra a classificação do seu Herói</p>
+        <p>Toodos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
