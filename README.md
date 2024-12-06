@@ -1,6 +1,6 @@
 # Classificador de Nível de Herói
 
-Este é um projeto desenvolvido como parte do desafio da DIO do Bootcampo Hi Happy para classificar heróis com base em sua quantidade de experiência (XP). O objetivo é praticar conceitos como **variáveis**, **operadores**, **laços de repetição** e **estruturas de decisão** utilizando **HTML**, **CSS** e **JavaScript**.
+Este é um projeto desenvolvido como parte do desafio da DIO do Bootcampo Ri Happy para classificar heróis com base em sua quantidade de experiência (XP). O objetivo é praticar conceitos como **variáveis**, **operadores**, **laços de repetição** e **estruturas de decisão** utilizando **HTML**, **CSS** e **JavaScript**.
 
 ---
 
