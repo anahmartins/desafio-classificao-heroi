@@ -30,7 +30,7 @@ Classificar o nível de um herói com base em sua XP e exibir uma mensagem indic
 
 ## 📷
 
-[img](https://github.com/anahmartins/desafio-classificao-heroi/blob/main/src/tela-site-nivel-heroi.jpeg?raw=true)
+![img](https://github.com/anahmartins/desafio-classificao-heroi/blob/main/src/tela-site-nivel-heroi.jpeg?raw=true)
 
 ---
 
